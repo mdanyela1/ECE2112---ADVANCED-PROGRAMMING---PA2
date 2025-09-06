@@ -26,11 +26,11 @@ pip install numpy
 # How to Run
 1. Run the Normalization Problem script:
         python normalization.py
-This will create and save X_normalized.npy.
+- This will create and save X_normalized.npy.
 
 2. Run the Divisible by 3 Problem script:
         python divisible_by_3.py
-This will create and save divby3.npy.
+- This will create and save divby3.npy.
 3. To load the saved files later:
         import numpy as np
 
